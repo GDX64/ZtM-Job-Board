@@ -11139,6 +11139,22 @@
         "state": "",
         "country": "Russia"
       }
+    },
+    {
+      "id": 791,
+      "name": "Gabriel Machado",
+      "img": "https://avatars0.githubusercontent.com/u/36547504?s=400&u=0b18a32750fede0373910d7a1e2acd49bcb8ca2a&v=4",
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/gabriel-e-l-machado",
+        "website": " https://medium.com/@gabriel.delmachado",
+        "github": "https://github.com/GDX64"
+      },
+      "jobTitle": "Electrical Engineer",
+      "location": {
+        "city": "Porto Real",
+        "state": "Rio de Janeiro",
+        "country": "Brazil"
+      }
     }
   ]
 }
